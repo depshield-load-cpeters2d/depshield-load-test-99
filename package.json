@@ -1,0 +1,9 @@
+{
+  "name": "int-906-test1",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "dependencies": {
+    "hawk": "2.3.1"
+  }
+}
